@@ -2,6 +2,14 @@
   "sources": [
     {
       "id": 1,
+      "name": "airtimePro",
+      "protocol": "http",
+      "host": "ly729.out.airtime.pro",
+      "port": "8000",
+      "mount": "ly729_a"
+    },
+    {
+      "id": 2,
       "name": "txrelay2",
       "protocol": "https",
       "host": "listen.729ly.net",
