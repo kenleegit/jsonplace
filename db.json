@@ -5,7 +5,7 @@
       "name": "txrelay2",
       "protocol": "https",
       "host": "listen.729ly.net",
-      "port": "8001,
+      "port": "8001",
       "mount": "ly729_a
     }
   ],
