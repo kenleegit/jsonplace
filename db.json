@@ -8,8 +8,5 @@
       "port": "8001",
       "mount": "ly729_a"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
